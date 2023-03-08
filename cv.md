@@ -32,7 +32,7 @@ function brightest(colors) {
 ```
 
 ## Experience
-- Front-end Developer at PopMechanic\Mindbox
+- Front-end Developer at PopMechanic\Mindbox  
   September 2020 - December 2022
 - HTML Coder at Rossiyskaya Gazeta  
   June 2017 - February 2018
